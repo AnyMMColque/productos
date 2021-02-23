@@ -1,0 +1,22 @@
+{
+  "name": "productos",
+  "version": "1.0.0",
+  "description": "Sistema de gestion de productos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyMMColque/productos.git"
+  },
+  "author": "Any",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnyMMColque/productos/issues"
+  },
+  "homepage": "https://github.com/AnyMMColque/productos#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
